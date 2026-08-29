@@ -1,0 +1,185 @@
+Title: Christmas Cars
+Credit: Written By
+Author: Michael Glaser-Garbrick
+Source: 
+Draft date: v DDT.3
+Contact:
+mglaserg@gmail.com
+
+
+
+
+/*Setting up macros
+{{gang1 = VIPERS}}
+{{gang2 = RAMS}}
+{{gift1 = Pair of Fuzzy Dice}}
+{{gift2 = Hula Girl}}
+{{gift3 = Lubricant}}
+{{gift4 = Baby on Board}}
+{{DET = DETECTIVE}}
+{{D = TYLER}} [longing]
+{{B = RANDALL}} 
+{{S = BENNY}} [anger]
+{{W = VICTORIA}}[horny]
+{{Car = NEO, The 1986 Nissan Altima}}
+*/
+
+
+INT RANDALL’S APARTMENT
+
+We see {{DET}} standing over a body covered in a sheet. {{D}} Comes walking in holding {{gift1}}
+
+{{D}}[[@TYLER=80]]
+-APPY BIRTHDAY TO YOU-
+
+{{DET}}[[@DETECTIVE=30]]
+Sir, please don’t come into the room. I don’t want to see this. My name is {{DET}}
+
+{{D}}
+Where is {{B}}? I brought him a {{gift1}} for {{Car}}’s birthday
+
+{{DET}}
+I’m afraid I have to tell you something about {{B}}. He’s dead
+
+{{D}}[[@TYLER=40]]
+Dead? Like dead dead? Like I have a dead brother?
+
+{{DET}}
+I’m afraid so
+
+
+!{{D}} sniffles
+
+{{D}}
+And what about {{Car}}?
+
+!{{DET}} stares for some time
+
+{{DET}}
+It needed to be destroyed
+
+{{D}}
+Destroyed? How come?
+
+{{DET}}
+It was involved with drugs
+
+
+{{D}}[[@TYLER=90]]
+OH GOD! Anything but drugs!
+
+{{D}} (CONT'D)
+[[@TYLER=70]]I just can’t believe it you know? He was always there for me you know? From my first love breaking my heart, to me smoking my first cigarette, to the first my existential crisis. He was there for me
+
+{{DET}}
+I’m sure {{B}} was an amazing big brother
+
+{{D}}
+No. Not him. {{Car}}
+
+{{DET}}[[@DETECTIVE KATE=40]]
+Sir. I’ve had enough. I need you to leave
+
+!{{D}} exits somehow
+!In walks little {{S}}. Probably 14-15. He is carrying {{gift2}}
+
+{{S}}
+HAPPY BIRTHDAY DEAR-
+
+{{DET}}[[@DETECTIVE KATE=70]]
+Not one step further! 
+
+{{S}}
+Oh damn!
+
+{{DET}}[[@DETECTIVE KATE=40]]
+You must be {{S}}. I’m afraid I have to tell you something about {{B}}. He’s dead
+
+{{S}}
+Dead? Like dead dead? Like I have a dead uncle?
+
+{{DET}}
+I’m afraid so
+
+{{S}}
+And what about NEO?
+
+!{{S}} stares for a long time
+
+{{DET}}
+The Car?
+
+{{S}}^
+The 1986 Nissan Altima
+
+{{DET}}
+Really? It was destroyed (beat) Drugs
+
+{{S}}
+Goddamn it! You know he’s a real son of a bitch. He left me with nothing. Absolutely nothing. I still had a lot to learn from him! I feel like I could have been more. I could have picked up some chicks. I hate him. I hate everything he stands for and in the same breath I can’t be mad at him you know
+
+{{DET}}
+Your uncle was a good man, I’m told
+
+{{S}}
+Uncle? Oh right. (beat) He’s dead. (beat) No I was talking about the {{Car}} 
+
+{{DET}}
+The Car?! Are you serious right now?! Please leave I have a job to do. God when will these people take this seriously?
+
+!{{S}} exits. Yells about he was going to mack on some honeys and {{W}} walks in with a {{gift4}} sticker and a key fob.
+
+{{W}}
+HAPPY BIRTHDAY MY DEAR SEXY-
+
+{{DET}}
+STOP! STOP RIGHT THERE!! You must be {{W}}. Your husband. I’m afraid he’s dead
+
+!There is a blank expression on {{W}}
+
+{{DET}}
+Your husband is dead!
+
+{{W}}^
+(nonchalantly)
+Oh no.
+
+{{W}}
+So like, when you say dead, do you mean dead dead? Like I have a dead husband?
+
+{{DET}}
+Finally a normal person. Yes exactly.
+
+{{W}}
+And what about NEO?
+
+Pause
+
+{{DET}}
+(Frustration)
+The 1986 NISSAN ALTIMA?! That’s what you care about?
+
+{{W}}
+Well yeah. We were on a more personal level and I have plenty of dead husbands
+
+{{DET}}
+(beat)
+Drugs
+
+{{W}}
+How could he do this to me? {{Car}} and I were involved on a deep level and I mean **deep**. I would suck on his tailpipe all night. He used to slam me into fifth gear, blow his gasket all over my body. I would lick up his hot oily oil right off of me.  He would RIDE me hard and I mean **HARD**. I would bottom out every time. He knew his way around my gearbox
+
+{{DET}}
+(interrupts at any time during {{W}}'s monologue)
+You know what? Screw this. You are being detained {{W}}, for the possible murder of {{B}}. 
+
+{{W}}
+Wait! I have something to confess. I did it. I did kill {{B}} but I had a good reason to do so. Everyone please come in here
+
+
+!Everyone piles in the room {{W}} puts the {{gift4}} sticker on herself rubs her belly and clicks the key fob. Her belly lights up and beeps like a car
+
+
+
+>**BLACKOUT**<
+/* If you're seeing this, you can remove the following stuff - BEAT: {"TagDefinitions":[],"Emotional Journey: windowSize":{"width":600,"height":500},"Emotional Journey: windowPosition":{"x":420,"y":200},"Review Ranges":[],"Revision":{},"Window Width":1188,"Emotional Journey: lineStyle":"round","Window Height":800,"Heading UUIDs":[{"string":"INT RANDALL’S APARTMENT","uuid":"32EBEFF0-8DAA-4555-B535-0F303AE88795"}],"Tags":[],"Active Plugins":["Notes Bin"],"Notes Bin: data":"{\"notes\":[{\"id\":\"vgxaSSLTGJAFbnGmWV-TZ\",\"contents\":\"Propeller Hat\\nBig Lollipop\\n\\nDetective Badge\\nTrench Coat\\n\\nGift Items\\n\\nGrunge outfit\\n\\nMullets everyone\"},{\"id\":\"YNtx9QwZ7YU-TwqQ-E7g_\",\"contents\":\"Staged in the 90s\"},{\"id\":\"8UKXOlZ25JuTs9FZ72sFB\",\"contents\":\"Family photos\"},{\"id\":\"VxjMx-aPztpQggogwQZ91\",\"contents\":\"True crime promotional\"},{\"id\":\"DtD0E1_FQNSVEkZXYoFfN\",\"contents\":\"Picnic promotional\\n\"},{\"id\":\"GbpwinDMkTPB5pddZ5yBb\",\"contents\":\"Make Victoria more explicit: DONE\"},{\"id\":\"DmXt0_meTo6gRLQOZ0ckn\",\"contents\":\"Make a mini game Tyler says N86A Benny N -> 86A\\nV -> N: DONE\"},{\"id\":\"FelzH38Qz4vH8h7HpPa1F\",\"contents\":\"Introduce Victoria: DONE\"}],\"theme\":\"dark\",\"fontSizePt\":9}","Print Sections":false,"VersionControl":{"timestamp":"2026-07-29 15:03:37","checksum":"93375543d44fe2f970480e1a9f1e902e7de29c3238575ebea235b2d13fb1de84","base":"eJytV9ty2zgSfedXtJ4mcTmaeHxJnJqMR7YUWzW27JKY8bpS2RQoQiJHJKACQCtMSlX7G\/t7+yV7GiAlxZOd3Yf1g8psAI2+nD7diHNXyDd0kZnculJYuhDGRhdGprl7Q\/cmd04qOq+jXuUybd7QTT7NhCzoshBWmheXwiQmny6iia7MFJqivhEzR6lw+Hikfj\/uHkYXWjkxdW+icu6PzX+dlyIvulNdRvz3495EOperOVVLKsXUaBt9\/ToXan5Ab+n34d1gPFmvG9FPEI17N40gnznecydyQ3pG76ovX2rq51O5Web9V1Uh6DI3xUZ6COl1xbYL5TbSI0jPRVKThtNamNSv9Acx5PgdXMTD3wdBBkn8cD0Yr9f0odBqDus\/Qn7urRv1e9fXWIFgwioHo9EDb4T50vC2e+\/XRXw7HvbW6w8IrapZjvBjZTS43ac4k3Rw+vqERrm1QlGvcHkpcPnejwjZcBS39\/zrH\/+cUO+uN45vBqM4iu4lWSnJ241LrRMq5djqR2lIUKLTmqb8IVPKFSQ2k9J1+QC2X+hSWlqJYsFnsJ7pwh9vgg0DIr\/zw4dffQDevn758WP0ond390Dnw3F81e89UHxLD7fvX0RRYwU2b+L39pAPTHKzT8tCAg+UagUnHKwqJa50mhycN1qXXRpuVlfIFGGNnXNZbrt0U5MSfMS23ja2RfcZ3Avy8\/X6DFoSo6t55ijLS7i8cYZm2pCP+3qNWywluXFZKuqN6dEQcpyZGZGnUJSJR8lmOFkUVOuKLKyGPQiRSHTlwpVdupJeXypF+jRiRxyAPhbO6DpfSL\/H\/zTfzSUiLMByhMOc\/QeLrAYcOiF5VuWzWSFtG4aeSmmVCbexzPt5Fva36DDIN0eB\/SBgTO5c5EhJmQIocDhhQ60zupatR3CiEZzRlV75BJ59c3wFTsnVoy4eoWSVu4xSU81h4JOQnHJIbq\/o8rbfoZ6qQ0ATGO33d5r99OzidhT\/0H8ebU6+wskh\/VFZ4EcEpCSyyCUCmDufoIXSK9gnvTGiWInaMsAAEHYbTm83vTO6pLKmWW6gr0CVIPxS+FqAOJPCuH0OBk7ZUrfysH2azxFMMKbfwRAOco6pz2nKe+VnUK1ULhcFTUG7DOTGtl2jnmbbVkYGaAU3ULil+OKDlM9bjLRpGekujbQHe7fN+ndrkX7rxYOARxQkqg13wWc2VSouGC5AhoCPEbxCwT7KDd7gi7MeOJleRZ2h8sRhqUDfKNjcCVfCndGJSIqaDo5eHBx7b1GZU2FMvSWWn4KFTOtX33JJf9Abf59JgvUMgIi91QpJcXJJs8pwNDrUarwF7ESpOv8tBg9wsmQkJRvj\/z\/VP\/G18j8WfKWmhfyrcg\/6nhQ3mkYo7Mm3ZS2I29OTwubmAlTgwN+Dsu93m+2BsRRFUYNIQ0lviICeJVK459QPVR2UXeqUw43669BDU1uoHR8RQainAm4o7tdoR7mbZh4ThcTggErxLKG0D2qXeonVRYVw11vZEP7liD\/DlN1zDTKNohkXMGDfwaaZxKBShPhOdVWkIcqJxEhTaiO738qXmGPgEEYQz4TTDN+263PjZCil5n9wi2kYKpOhwTaxVr6lculbbkzMHXBmuMNMmG9gdOhDLe9sw4xomZD\/UOU01xqsIdR+A0SHbtyG+b3HCQHcJkdr67a52MHeRjbSsMJzTNPZA2jY0oYf6M\/oABObwI4Y2nJd2XARMVV26C40b88IWwT\/oRPORgoGAgwAUAR7xcnCVdi9lBpNH1YsQhNvNQNbG\/B6VunSA0rMNnZmIR5zzaYz\/Yrpgoc0n6kMhV9bH3xMVp4gmYRyFaDUdvsjXxec5JAoQQsJ6tZJlz2\/\/zPx3ATuocngbw9bAoom8e1dh\/iXxsPLq5jiq8F40AlQ37LHPdOAz2dW2QQXPuGSbJchOnE7sKAiCqEWCMISFWxzrhMV1D2BSaOWD7GSjq9l3vZMaYUpHWpcUT9n8lN64+NE+5LYD5nxuRW1V7CPpHlBKUEAf01Rzd07JPUuV8wQ2KC0KVHhS2lQ5JxGC2cw\/hf1xojvUtedqOwORT17ZxBLIxxC8HyHn4aTSW9Evet4eNMDCmOo8YH0+th8NBYZFJ+19917tpYCRIPpeMWh1jz5Mgs0hsLiAnVdeGg0zgKpytXMU7tO2x0bfXFFG\/LzIPJzkGcVnmwDyv3EcLYptXCHt2MzHHmDUon2tWuHz8XeHsv39piAVl61rQL+vW48pZb5Ej7DSRWYAHSKYPqxzRaipHaunqEOMpqDKveBM2ZlKJgLu5DOH\/dvBAwp\/EjY3lagaJgXeXPGjTZHovHT0IGezThGJQjVTzL+zHjYH\/C1GV5R3\/py1Rv3d31JtHMgbQaCJ1bfqrwLCyWDhRjZSGCAV36CYvMT\/XknDfBNGlMtMYwwqFTQQWllwoCBvPxgkW2lCz2v5PNo05UYNWc0mRrcFB4VvMQISiSfTSXCq2TDLPue5Zk0lxq1mYDJysqk0r89m86\/wZzg9tcgaTslIAlTrWYobf+2ARHkrv1vwTwZZjyefIdNg\/M9AJ2Ee6anVqjr0oBjxSNP84hqHk\/ERMIvgu16jhdB25b4UdWw5LJytmkAT+lRezVWFjMyVWL5g4dqLm+kYMp4CEdbBkW22h0FY8IyXHgvmu3ShiYsuDL5uf\/L3t75de\/it9v38d7ez9HPnz5NBnE8HF1OPn365Stqbg6MvqWD1y8B0trB+Lf08vPR9NXpyezkFR0fHr86PsU\/J8fHrw5PDw\/oSBweHomTKXW7XTo+OD45PsDyUXJyevj6MKX1vwG827mS","commits":[{"patch":"","message":"init commit","timestamp":"2026-07-29 15:03:51"}]},"Revision Level":0,"Caret Position":2979,"Text Length":4177} END_BEAT */

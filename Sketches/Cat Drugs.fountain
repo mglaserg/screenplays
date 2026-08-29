@@ -1,0 +1,89 @@
+Title: Cat Drugs
+Credit: Written By
+Author: Michael Glaser-Garbrick
+Draft date: 24.09.2025
+Contact: Your mom has my number
+
+
+/*This is to Create the beats on finding drugs and setup some macros
+{{mom = BECKY}}
+{{dad = KYLE}}
+{{son = TREVOR}}
+{{dog = AIR BUD}}
+*/
+
+Int. {{son}}'s bedroom
+
+
+[[beat finding the dvd]]
+@{{dad}}
+{{son}} {{son}}! Get in here right now
+
+@{{son}}
+Okay dad! Coming!
+
+@{{dad}}
+{{son}}! What is this?
+
+@{{son}}
+I don't kno-
+
+@{{dad}}
+This is the 2019 Blu-Ray Special Edition of Cats the Musical
+
+@{{son}}
+I'm sorry da-
+[[beat big trouble]]
+@{{dad}}
+Oh if my friends at the glee club ever find out about this you are going to be in big trouble mister
+
+
+@{{son}}
+I'm sorry dad! I don't know how it got there!
+
+@{{dad}}
+I think you do know! Ugh! I'm so furious! Thinking you can bring this filth into this house hold. I need to leave! {{mom}} can you get up here? 
+
+@{{son}}
+No don't bring mom into this
+
+@{{MOM}}
+Hi sweetie. It's {{son}}
+
+@{{dad}}
+I can't be in this room with this... this... disappointment
+
+@{{mom}}
+It's okay honey I have this. Go take a breather
+
+{{dad}} skips out humming phantom of the opera and dramatically slams door
+[[beat holding it for a friend]]
+
+@{{mom}}
+Hey baby. You can tell me anything. Why do you have this?
+
+@{{son}}
+I'm holding it for a friend
+
+@{{mom}}
+Honey. {{son}} I'm not that old. That's the oldest lie in the book
+
+@{{son}}
+Okay fine. I... I... enjoy watching the director's journey and this is THE cut
+
+@{{mom}}
+Oh this is THE cut? That's some premium stuff
+
+@{{son}}
+Right?! Hey. Can you be cool and not tell-
+
+
+[[beat drug dog]]
+@{{dad}}
+Your days are numbered @{{son}}. I brought the finest musical sniffing dog on loan from the police department. Say hello to {{dog}}!
+
+{{dog}} comes in a wheelchair
+
+[[beat learned it by watching dad]]
+
+/* If you're seeing this, you can remove the following stuff - BEAT: {"Review Ranges":[],"Revision":{},"Window Width":1187,"Stylesheet":"Screenplay","Heading UUIDs":[{"string":"Int. {{son}}'s bedroom","uuid":"A590D8A7-D14A-4BD2-8B8C-634647BA2A14"}],"Active Plugins":[],"Tags":[],"VersionControl":{"base":"eJxlUF1rwjAUfc+vOD4NZPhBbVWY25iIiGOCyoaISGpiU9YmI4lzIv3vuy06HxZCuOd+nHtyWLO+VKkDXW8wtJJ7Ca8kYoocjMY+1SLVCYQ9JA5cCzjpD19wJpfI+c4ax87n3OQY4GU0nK6KgrDggvB09TqqoCOiAZbz0ftsTol6k020b6AqFMWdo3XCGpOz9bpc\/Le0VCK+xWbDnivOK1lRXGdrGEuPVENJK2HTRHloc2TlQNXAZp\/8BJqtYWhyIq2xf2Q1fCjaWppAZjwxOhchymSVkJQ0GQuOvU2lLgVdGuKUVFpziDN5S5ZeQZjklskkt1qKkic+4cj9TlWm8svfyD+SE2dcoXzYw3a7GC2Xk7fxYrt9PGdSJ16Rhe1e654YvHQEWj+dXbcf7aMuwiDshn0KojDsBv2gjQ4Pgg6Pdmg0GgjbYRS2qdyJo37QCwSKXwWDprU=","commits":[],"timestamp":"2025-09-24 18:19:25"},"Revision Level":0,"Window Height":800,"Caret Position":1769,"Text Length":1807,"TagDefinitions":[]} END_BEAT */
